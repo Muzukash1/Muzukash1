@@ -102,8 +102,8 @@
 
 <div align="center">
 
-[![Pin 1](https://github-readme-stats.vercel.app/api/pin/?username=Muzukash1&repo=YOUR_REPO_1&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&icon_color=00bfff&text_color=a8edea&bg_color=0d1b2a)](https://github.com/Muzukash1/YOUR_REPO_1)
-[![Pin 2](https://github-readme-stats.vercel.app/api/pin/?username=Muzukash1&repo=YOUR_REPO_2&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&icon_color=00bfff&text_color=a8edea&bg_color=0d1b2a)](https://github.com/Muzukash1/YOUR_REPO_2)
+[![Pin 1](https://github-readme-stats.vercel.app/api/pin/?username=Muzukash1&repo=YOUR_REPO_1&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&icon_color=00bfff&text_color=a8edea&bg_color=0d1b2a)](https://github.com/Muzukash1/vaneric_portfolio)
+[![Pin 2](https://github-readme-stats.vercel.app/api/pin/?username=Muzukash1&repo=YOUR_REPO_2&theme=tokyonight&hide_border=false&border_color=56cfff&title_color=56cfff&icon_color=00bfff&text_color=a8edea&bg_color=0d1b2a)](https://github.com/Muzukash1/ALMI-S-ANGELS)
 
 </div>
 
